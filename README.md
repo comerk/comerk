@@ -2,7 +2,7 @@
 
 ## I'm a Hobbyiest, Electrical Engineer, Developer, and Life Long Learner 📚
 - 🔬 I'm currently working as an Embedded Software Test Engineer
-- 🌱 I'm currently learning all of the computer science field 🙃
+- 🌱 I'm currently learning everything computer science 🙃
 - 👨‍🎓 I'm eager to learn and collaborate with other developers
 - 🥅 2021 Goals: Start contributing to Open Source Projects
 - ⚡ Fun Fact: I love to golf and play video games
