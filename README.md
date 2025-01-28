@@ -9,8 +9,6 @@
 
 
 [syntaxDuck]: https://github.com/syntaxDuck?tab=repositories
-[linkedin]: https://www.linkedin.com/in/kameron-comer/
-[instagram]: https://www.instagram.com/syntax_duck/
 
 <!--
 **syntaxDuck/syntaxDuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
