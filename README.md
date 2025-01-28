@@ -4,10 +4,6 @@
 
 ### Connect with me:
 
-[<img align="left" width="40px" src="https://user-images.githubusercontent.com/59189020/135370896-cf682074-a803-4d2e-8381-408375c8c276.png" />][linkedin]
-[<img align="left" width="40px" src=https://user-images.githubusercontent.com/59189020/135370439-7036881c-25a2-4835-9949-9720c16868a4.png />][instagram]
-
-
 [syntaxDuck]: https://github.com/syntaxDuck?tab=repositories
 
 <!--
